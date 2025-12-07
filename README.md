@@ -29,3 +29,4 @@ Place your real assets in `public/`:
 - `public/pricing-table-oxygen-gym.png`
 - `public/gallery/kg-halli-1.jpg` ... `kg-halli-4.jpg`
 - `public/gallery/lingarajapuram-1.jpg` ... `lingarajapuram-4.jpg`
+# Fitness-Freak
